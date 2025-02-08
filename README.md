@@ -29,7 +29,7 @@ Isaac Fisher: [Github](https://github.com/isaac1000000)
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Prioritree is a new take on the classic to-do app, where users can rank the priority of their tasks according to a series of intuitive, binary-tree-style head-to-head comparisons, then receive feedback based on previous similar tasks as to what an effective work plan may look like.
 
 ## User Requirements
 
