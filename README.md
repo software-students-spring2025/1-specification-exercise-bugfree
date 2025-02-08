@@ -8,6 +8,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 Isaac Fisher: [Github](https://github.com/isaac1000000)
 Leo Wu: [Github](https://github.com/leowu777)
+Felix Guo: https://github.com/Fel1xgte
 
 ## Stakeholders
 
