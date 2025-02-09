@@ -4,8 +4,6 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-
 Isaac Fisher: [Github](https://github.com/isaac1000000)
 Leo Wu: [Github](https://github.com/leowu777)
 Felix Guo: [Github](https://github.com/Fel1xgte)
