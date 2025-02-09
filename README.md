@@ -53,4 +53,4 @@ Prioritree is a new take on the classic to-do app, where users can rank the prio
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Link](https://www.figma.com/proto/f4Qz2qakz7JEYoRYgu8ccL/Bugfree?node-id=34-2&p=f&t=mbcblgkasfcc0tQH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A2)
