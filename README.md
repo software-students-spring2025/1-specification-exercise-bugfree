@@ -48,7 +48,8 @@ Prioritree is a new take on the classic to-do app, where users can rank the prio
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+1. As a student, I want to rank my tasks using a simple comparison system so that I can easily determine what is most important.
+2. 
 
 ## Clickable Prototype
 
