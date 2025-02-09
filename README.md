@@ -49,7 +49,7 @@ Prioritree is a new take on the classic to-do app, where users can rank the prio
 ## Activity Diagrams
 
 1. As a student, I want to rank my tasks using a simple comparison system so that I can easily determine what is most important.
-2. 
+2. As a student, I want to mark tasks as "in progress" or "completed" so that I can keep track of my progress.
 
 ## Clickable Prototype
 
