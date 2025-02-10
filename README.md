@@ -45,11 +45,10 @@ Prioritree is a new take on the classic to-do app, where users can rank the prio
 10. As a student, I want the system to highlight tasks I tend to procrastinate on so that I can recognize and improve my work habits.
 
 ## Activity Diagrams
-
-1. As a student, I want to rank my tasks using a simple comparison system so that I can easily determine what is most important.
-![UML Diagram](https://raw.githubusercontent.com/username/repo-name/main/images/Task Manager UML Diagrams (1).jpg)
-3. As a student, I want to mark tasks as "in progress" or "completed" so that I can keep track of my progress.
-![UML Diagram](https://raw.githubusercontent.com/username/repo-name/main/images/Task Manager UML Diagrams.jpg)
+As a student, I want to rank my tasks using a simple comparison system so that I can easily determine what is most important.
+![UML Diagram](Task Manager UML Diagrams (1).jpg)
+As a student, I want to mark tasks as "in progress" or "completed" so that I can keep track of my progress.
+![UML Diagram](Task Manager UML Diagrams.jpg)
 
 ## Clickable Prototype
 
